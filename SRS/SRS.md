@@ -98,7 +98,11 @@ From Figma prototype:
 - Food contribution form  
 - User profile page  
 
-[Link to Figma Wireframes](https://www.figma.com/design/4igSbs1J3N2pNaDe6gTHLD/IFN636A2?node-id=0-1&t=IPoijwJdJ0kqSnAP-1)  
+
+[Link to Figma Low-Fidelity](https://www.figma.com/design/aJuHc1Xznw3XZZUOqDZZOS/IFN636-Low-fidelity?node-id=0-1&t=66fzzC4uq283PV13-1)  
+
+
+[Link to Figma High-Fidelity](https://www.figma.com/design/4igSbs1J3N2pNaDe6gTHLD/IFN636A2?node-id=0-1&t=IPoijwJdJ0kqSnAP-1)  
 
 ---
 
